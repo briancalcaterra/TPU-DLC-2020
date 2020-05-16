@@ -24,7 +24,7 @@
             <a href="index.jsp"><img src="https://pngimage.net/wp-content/uploads/2018/06/inicio-icono-png-6.png" class="logo"></a>
             <ul>
                 <li><a class="navbar-brand" href="addDocument.jsp">Agregar documento</a></li>
-                <li><a class="navbar-brand" href="addFile.jsp">Agregar carpeta con documentos</a></li>
+                <li><a class="navbar-brand" href="addFolder.jsp">Agregar carpeta con documentos</a></li>
             </ul>
         </nav>
         </header>
